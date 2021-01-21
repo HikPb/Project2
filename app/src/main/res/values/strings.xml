@@ -6,4 +6,7 @@
     <string name="logout">Logout</string>
     <string name="new_post">New post</string>
     <string name="message">Message</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
 </resources>
